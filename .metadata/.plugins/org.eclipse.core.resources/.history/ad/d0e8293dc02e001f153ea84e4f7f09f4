@@ -1,0 +1,5 @@
+package com.SprignBoot.Quize_Service.QuizefeginInterface;
+
+public interface QuizeFignInterface {
+
+}

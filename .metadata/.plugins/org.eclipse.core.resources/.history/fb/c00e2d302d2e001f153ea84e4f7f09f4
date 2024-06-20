@@ -1,0 +1,11 @@
+package com.SprignBoot.Quize_Service.DTO;
+
+import lombok.Data;
+
+@Data    //to create setters getter automatically
+public class QuizeDTO {
+
+	private String category;
+	private String title;
+	private int numQ;
+}
